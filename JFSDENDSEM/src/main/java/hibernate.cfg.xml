@@ -7,9 +7,9 @@
             
     <property name="hbm2ddl.auto">update</property>
     <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
-    <property name="connection.url">jdbc:mysql://localhost:3306/klu_niha</property>
+    <property name="connection.url">jdbc:mysql://localhost:3306/klu</property>
     <property name="connection.username">root</property>
-    <property name="connection.password">Harshitha@31356</property>
+    <property name="connection.password">praneetha@1748</property>
     <property name="connection.driver_class">com.mysql.jdbc.Driver</property> 
     
     <mapping class="com.klu.lab01.Student"/>
